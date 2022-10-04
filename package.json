@@ -1,0 +1,16 @@
+{
+  "name": "selenium-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Goitsi",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.5.0"
+  },
+  "devDependencies": {},
+  "description": "Selenium Example"
+}
